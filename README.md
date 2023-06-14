@@ -27,8 +27,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam1750&show_icons=true&locale=en" alt="shivam1750" /></p>
 
-<hr> 
+<hr>
+### Hey Shivam here 👋
+---
+Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ | PowerBI |
+【P】【y】【t】【h】【o】【n】
+ 
+ - 🌱 I’m currently learning Data Science | Machine Learning | NLP 
+- ⚡ Quote: There is always time. You just have to find it.
+- 📫 How to reach me:
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://github.com/shivam1750)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/shivam-borse-3149a8207/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](borseshivam01@gmail.com) 
 
+---
+<hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1750&" alt="shivam1750" /></p>
 
 <p>
