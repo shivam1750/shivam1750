@@ -24,9 +24,6 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1750&" alt="shivam1750" /></p>
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam1750&show_icons=true&locale=en&layout=compact" alt="shivam1750" style="max-width: 100%;border-left-width: 20px;width: 300px;margin-left: 100px;" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam1750&show_icons=true&locale=en" alt="shivam1750" /></p>
 
 <p>
