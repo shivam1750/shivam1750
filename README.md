@@ -1,5 +1,5 @@
 ![logo](https://github.com/shivam1750/shivam1750/blob/main/111.jpg)  
-<h1 align="center">Hi 👋, I'm SHIVAM BORSE</h1> 
+<h1 align="center">Hi 👋, I'm SHIVAM BORSE</h1>  
   
 <h3 align="center">just code and sleep ...!</h3>
 <img align= "right" alt="coding" width =400 src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
